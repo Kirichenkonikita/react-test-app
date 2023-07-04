@@ -1,0 +1,15 @@
+.container {
+    grid-area: n;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+.link {
+    color: aqua;
+    text-decoration: none;
+}
+
+.active {
+    color: gold;
+    font-weight: bolder;
+}

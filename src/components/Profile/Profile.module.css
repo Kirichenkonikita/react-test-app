@@ -1,0 +1,8 @@
+.image {
+    min-width: 100%;
+    max-height: 200px;
+}
+
+.outherContainer {
+    padding: 20px;
+}

@@ -1,0 +1,15 @@
+.outherContainer {
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    grid-area: h;
+
+}
+
+.outherContainer img {
+    height: 40px;
+    align-self: center;
+}
+
+.bright {
+    background-color: aquamarine;
+}

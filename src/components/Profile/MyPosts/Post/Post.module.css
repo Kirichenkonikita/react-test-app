@@ -1,0 +1,18 @@
+.container {
+    border: 2px solid salmon;
+    margin-bottom: 10px;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.like {
+    color: greenyellow;
+}
+
+.dislike {
+    color: red;
+}

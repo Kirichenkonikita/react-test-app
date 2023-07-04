@@ -1,0 +1,8 @@
+.mainContainer {
+    padding: 20px;
+}
+
+.chatContainer {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}

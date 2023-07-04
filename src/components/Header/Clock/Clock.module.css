@@ -1,0 +1,11 @@
+.outherContainer {
+    height: 40px;
+    border: 1px solid black;
+    padding: 5px;
+    display: inline-block;
+
+    justify-self: end;
+    align-self: center;
+
+    text-align: center;
+}
